@@ -1,0 +1,35 @@
+
+h1 {
+    color:blue;
+    text-align: center;
+    border-style: solid;
+    border-color: red;
+    border-radius: 20px;
+    padding: 20;
+    margin-left: 20%;
+    margin-right: 20%;
+    border-width: 5px;
+}
+p {
+    color: gold;
+    border-style: solid;
+    border-color: black;
+    padding: 20;
+}
+#womp-womp {
+    color: red;
+}
+#womp-womp {
+    color: rebeccapurple;
+}
+
+.funni{
+    color: fuchsia;
+}
+p.funni{
+    color: pink;
+}
+
+div p.funni {
+    color: deeppink;
+}
